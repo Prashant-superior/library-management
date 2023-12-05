@@ -21,7 +21,7 @@ const Navbar = () => {
             <Link to="/dashboard">Dashboard</Link>
           </li>
           <li className="text-white hover:text-gray-300 transition duration-300 ease-in-out">
-            <Link to="/login">Login</Link>
+            <Link to="/login">Login/Register</Link>
           </li>
         </ul>
       </div>
